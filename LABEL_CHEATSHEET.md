@@ -1,5 +1,15 @@
 # Label Cheat Sheet
 
+
+## Contexts
+
+- `context:other` – the issue is related to anything else.
+- `context:package` – the issue is related to a community-driven package.
+- `context:scheme` – the issue is related to the color scheme.
+- `context:sublime` – the issue is related to Sublime Text and its default packages.
+- `context:theme` – the issue is related to the theme.
+
+
 ## Statuses
 
 - `status:available` – the issue has been already resolved and implementation is available in the latest product release.
@@ -26,12 +36,3 @@
 - `type:feature` – acknowledged as feature to be implemented.
 - `type:feedback` – please let me know your thoughts and comments on this.
 - `type:support` – questions, troubleshooting, tips and etc.
-
-
-## Contexts
-
-- `context:other` – the issue is related to anything else.
-- `context:package` – the issue is related to a community-driven package.
-- `context:scheme` – the issue is related to the color scheme.
-- `context:sublime` – the issue is related to Sublime Text and its default packages.
-- `context:theme` – the issue is related to the theme.
