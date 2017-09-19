@@ -30,12 +30,13 @@ Until that you can:
 6. Find `DA UI` and hit `Enter`.
 7. Enjoy!
 
-<br>
+###### File icons
 
-> Install [**A File Icon**][link-afi] package for support of the file-specific icons.
-> Alternative icon pack will be available in the next release.
+Install [**A File Icon**][link-afi] package for support of the file-specific icons. Alternative icon pack will be available in the next release.
 
-<br>
+
+
+## In action
 
 ![Showcase][img-showcase]
 
