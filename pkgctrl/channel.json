@@ -2,26 +2,5 @@
   "schema_version": "3.0.0",
   "repositories": [
     "https://raw.githubusercontent.com/ihodev/sublime-da-ui/master/pkgctrl/packages.json"
-  ],
-  "packages_cache": {
-    "https://raw.githubusercontent.com/ihodev/sublime-da-ui/master/pkgctrl/packages.json": [
-      {
-        "name": "DA UI",
-        "description": "Adaptive, Customizable, Elegant UI Theme and Color Schemes",
-        "author": "ihodev",
-        "platforms": ["*"],
-        "issues": "https://github.com/ihodev/sublime-da-ui/issues",
-        "readme": "https://raw.githubusercontent.com/ihodev/sublime-da-ui/master/pkgctrl/README.md",
-        "labels": "adaptive, customizable, elegant, ui, theme, color scheme",
-        "releases": [
-          {
-            "version": "1.0.0-beta.1",
-            "date": "2017-09-19 20:25:00",
-            "sublime_text": ">=3143",
-            "url": "https://github.com/ihodev/sublime-da-ui/releases/download/v1.0.0-beta.1/DAUI.sublime-package"
-          }
-        ]
-      }
-    ]
-  }
+  ]
 }
