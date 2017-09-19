@@ -35,11 +35,11 @@ Until that you can:
 
 ![Showcase][img-showcase]
 
-<small>
-* Colors may differ due to GIF encoding.<br>
-** OS: macOS Sierra.<br>
-*** Font: Operator Mono.
-</small>
+\* Colors may differ due to GIF encoding.
+
+\*\* The operating system is **macOS**.
+
+\*\*\* The font used for the code is [Operator Mono][link-font]
 
 
 
@@ -79,6 +79,7 @@ Currently everything you need is available from Sublime Text Command Palette: ju
 <!-- Links -->
 
 [link-afi]: https://packagecontrol.io/packages/A%20File%20Icon
+[link-font]: https://www.typography.com/fonts/operator/styles/
 
 
 <!-- Images -->
