@@ -84,5 +84,5 @@ Currently everything you need is available from Sublime Text Command Palette: ju
 
 <!-- Images -->
 
-[img-logo]: https://raw.githubusercontent.com/ihodev/sublime-da-ui/master/media/logo.png?
+[img-logo]: https://raw.githubusercontent.com/ihodev/sublime-da-ui/master/media/logo.png?v=1
 [img-showcase]: https://raw.githubusercontent.com/ihodev/sublime-da-ui/master/media/showcase.gif
