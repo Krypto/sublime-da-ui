@@ -6,7 +6,7 @@ DA UI is a set of beautiful, clean and elegant interface and syntax themes for S
 
 ## Get it
 
-Currently the package is not on **Package Control**, but it will be available **soon**.
+Currently the package is not on **Package Control**, but it will be available [**soon**][link-pcpr].
 
 Until that you can:
 
@@ -78,6 +78,7 @@ Currently everything you need is available from Sublime Text Command Palette: ju
 
 [link-afi]: https://packagecontrol.io/packages/A%20File%20Icon
 [link-font]: https://www.typography.com/fonts/operator/styles/
+[link-pcpr]: https://github.com/wbond/package_control_channel/pull/6611
 
 
 <!-- Images -->
