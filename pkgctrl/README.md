@@ -10,10 +10,8 @@ Currently the package is not on **Package Control**, but it will be available **
 
 Until that you can:
 
-1. Open `Command Palette ‣ Package Control: Add Channel`.
-2. Paste `https://www.ihodev.com/sublime/packages.json` and hit `Enter`.
-3. Open `Command Palette ‣ Preferences: Package Control Settings – User`.
-4. Add `DA UI` to `install_prereleases`:
+1. Open `Command Palette ‣ Preferences: Package Control Settings – User`.
+2. Add `DA UI` to `install_prereleases`:
 
     ```js
     "install_prereleases":
@@ -22,9 +20,9 @@ Until that you can:
     ],
     ```
 
-5. Choose `Command Palette ‣ Package Control: Install Package`.
-6. Find `DA UI` and hit `Enter`.
-7. Enjoy!
+3. Choose `Command Palette ‣ Package Control: Install Package`.
+4. Find `DA UI` and hit `Enter`.
+5. Enjoy!
 
 > Install [**A File Icon**][link-afi] package for support of the file-specific icons.
 > Alternative icon pack will be available in the next release.

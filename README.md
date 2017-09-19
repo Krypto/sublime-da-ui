@@ -11,7 +11,7 @@ Currently the package is not on **Package Control**, but it will be available **
 Until that you can:
 
 1. Open `Command Palette ‣ Package Control: Add Channel`.
-2. Paste `https://www.ihodev.com/sublime/packages.json` and hit `Enter`.
+2. Paste `https://raw.githubusercontent.com/ihodev/sublime-da-ui/master/pkgctrl/packages.json` and hit `Enter`.
 3. Open `Command Palette ‣ Preferences: Package Control Settings – User`.
 4. Add `DA UI` to `install_prereleases`:
 
