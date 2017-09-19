@@ -1,6 +1,9 @@
 # ![DA UI][img-logo]
 
+> DA UI is in Beta!
+
 DA UI is a set of beautiful, clean and elegant interface and syntax themes for Sublime Text 3. It bring you the most flexible way to customize the look and feel of your editor.
+
 
 
 ## Get it
@@ -25,7 +28,16 @@ Until that you can:
 6. Find `DA UI` and hit `Enter`.
 7. Enjoy!
 
+> Install [A File Icon][link-afi] package for support of the file-specific icons.
+> Alternative icon pack will be available in the next release.
+
 ![Showcase][img-showcase]
+
+<small>
+* Colors may differ due to GIF encoding.
+* OS: macOS Sierra.
+* Font: Operator Mono.
+</small>
 
 
 
@@ -52,12 +64,19 @@ Not just adaptive, the theme allows you to adjust any color of the UI elements. 
 All the color schemes were created with love to the default Sublime Text packages and respect to community-driven packages. That lets the theme to be a perfect choice for developers & technical writers.
 
 
+
 ## Additional information
 
 DA UI is absolutely free during the beta period. Pricing will be announced later this year.
 
 Documentation, screenshots and other improvements will be available later.
 Currently everything you need is available from Sublime Text Command Palette: just open `Command Palette` and type `DA UI`.
+
+
+
+<!-- Links -->
+
+[link-afi]: https://packagecontrol.io/packages/A%20File%20Icon
 
 
 <!-- Images -->
