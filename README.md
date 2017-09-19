@@ -10,7 +10,7 @@ DA UI is a set of beautiful, clean and elegant interface and syntax themes for S
 
 ## Get it
 
-Currently the package is not on Package Control, but it will be available soon.
+Currently the package is not on **Package Control**, but it will be available **soon**.
 
 Until that you can:
 
@@ -32,7 +32,7 @@ Until that you can:
 
 <br>
 
-> Install [A File Icon][link-afi] package for support of the file-specific icons.
+> Install [**A File Icon**][link-afi] package for support of the file-specific icons.
 > Alternative icon pack will be available in the next release.
 
 <br>
