@@ -1,8 +1,4 @@
-> We are in Public Beta!
-
-
-
-# ![DA UI][img-logo]
+# ![DA UI BETA][img-logo]
 
 DA UI is a set of beautiful, clean and elegant interface and syntax themes for Sublime Text 3. It bring you the most flexible way to customize the look and feel of your editor.
 
@@ -88,5 +84,5 @@ Currently everything you need is available from Sublime Text Command Palette: ju
 
 <!-- Images -->
 
-[img-logo]: https://raw.githubusercontent.com/ihodev/sublime-da-ui/master/media/logo.png
+[img-logo]: https://raw.githubusercontent.com/ihodev/sublime-da-ui/master/media/logo.png?
 [img-showcase]: https://raw.githubusercontent.com/ihodev/sublime-da-ui/master/media/showcase.gif
