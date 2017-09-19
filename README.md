@@ -35,9 +35,9 @@ Until that you can:
 
 ![Showcase][img-showcase]
 
-\* Colors may differ due to GIF encoding.
-\*\* The operating system is **macOS**.
-\*\*\* The font used for the code is [Operator Mono][link-font].
+\* Colors may differ due to GIF encoding.<br>
+\*\* The operating system is **macOS**.<br>
+\*\*\* The font used for the code is [**Operator Mono**][link-font].
 
 
 
