@@ -5,7 +5,6 @@
       "name": "DA UI",
       "description": "Adaptive, Customizable, Elegant UI Theme and Color Schemes",
       "author": "ihodev",
-      "platforms": ["*"],
       "issues": "https://github.com/ihodev/sublime-da-ui/issues",
       "readme": "https://raw.githubusercontent.com/ihodev/sublime-da-ui/master/pkgctrl/README.md",
       "labels": "adaptive, customizable, elegant, ui, theme, color scheme",
