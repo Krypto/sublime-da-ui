@@ -20,6 +20,7 @@
 - `status:declined` – the issue has been rejected by the developer.
 - `status:duplicate` – the issue duplicates another issue.
 - `status:invalid` – the issue is not valid.
+- `status:known` – the issue is known but currently cannot be resolved.
 - `status:ongoing` – the issue that is currently being worked on by the developer or just active.
 - `status:onhold` – the issue has been postponed or temporarily on hold.
 - `status:pending` – the issue has been created and is waiting for the developer to review and confirm it.
@@ -35,4 +36,5 @@
 - `type:enhancement` – future improvements to be discussed and implemented.
 - `type:feature` – acknowledged as feature to be implemented.
 - `type:feedback` – please let me know your thoughts and comments on this.
+- `type:issue` – acknowledged as commonly-known issue to be resolved.
 - `type:support` – questions, troubleshooting, tips and etc.
