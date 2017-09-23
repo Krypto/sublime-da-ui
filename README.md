@@ -1,8 +1,8 @@
 # ![DA UI BETA][img-logo]
 
 [![Downloads @ Package Control][img-downloads]][link-downloads]
-[![Share via Twitter][img-twitter]][link-twitter]
 [![Discuss at Sublime Forum][img-forum]][link-forum]
+[![Share via Twitter][img-twitter]][link-twitter]
 [![Join the Chat at Gitter][img-gitter]][link-gitter]
 
 
