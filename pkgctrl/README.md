@@ -10,7 +10,7 @@ DA UI is a set of beautiful, clean, elegant interface and syntax themes for Subl
 2. Find `DA UI` and hit `Enter`.
 3. Enjoy!
 
-> Install [**A File Icon**][link-afi] package for support of the file-specific icons.
+> Install [**A File Icon**][link-afi] package for support of the file-specific icons.<br>
 > An alternative icon pack will be available in the next release.
 
 
@@ -62,6 +62,14 @@ Please fill out the issue template when reporting a bug or suggestion.
 ## Pricing
 
 DA UI is absolutely free during the beta period. Pricing will be announced later this year. In any case it will be available evaluation mode. This mode includes full functionality and there is no time limit, however, continued usage requires the purchase of a license.
+
+
+
+## Privacy
+
+We take your privacy seriously and will take all measures to protect your personal information.
+
+Any personal information received will only be used to fill your order. We will not sell or redistribute your information to anyone.
 
 
 
