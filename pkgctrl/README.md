@@ -61,7 +61,9 @@ Please fill out the issue template when reporting a bug or suggestion.
 
 ## Pricing
 
-DA UI is absolutely free during the beta period. Pricing will be announced later this year. In any case it will be available evaluation mode. This mode includes full functionality and there is no time limit, however, continued usage requires the purchase of a license.
+DA UI is absolutely free during the beta period. Pricing will be announced later this year.
+
+In any case it will be available evaluation mode. This mode includes full functionality and there is no time limit, however, continued usage requires the purchase of a license.
 
 
 
