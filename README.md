@@ -6,7 +6,7 @@
 [![Join the Chat at Gitter][img-gitter]][link-gitter]
 
 
-DA UI is a set of beautiful, clean, elegant interface and syntax themes for Sublime Text 3. It brings you the most flexible way to customize the look and feel of your text editor.
+**DA UI** is a set of beautiful, clean, elegant interface and syntax themes for Sublime Text 3. It brings you the most flexible way to customize the look and feel of your text editor.
 
 
 
