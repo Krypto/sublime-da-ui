@@ -93,7 +93,7 @@ Currently everything you need is available from Sublime Text Command Palette: ju
 [link-afi]: https://packagecontrol.io/packages/A%20File%20Icon
 [link-downloads]: https://packagecontrol.io/packages/DA%20UI
 [link-font]: https://www.typography.com/fonts/operator/styles/
-[link-forum]: #
+[link-forum]: https://forum.sublimetext.com/t/da-ui-is-now-a-public-beta-adaptive-customizable-elegant/32090
 [link-gitter]: https://gitter.im/sublime-da-ui/Lobby
 [link-new-issue]: https://github.com/ihodev/sublime-da-ui/issues/new
 [link-search-issue]: https://github.com/ihodev/sublime-da-ui/search?q=&type=Issues
