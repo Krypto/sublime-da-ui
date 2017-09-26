@@ -18,10 +18,10 @@
             ],
             "releases": [
                 {
-                    "version": "0.9.0",
-                    "date": "2017-09-19 21:00:00",
+                    "version": "0.9.1",
+                    "date": "2017-09-26 09:00:00",
                     "sublime_text": ">=3143",
-                    "url": "https://github.com/ihodev/sublime-da-ui/releases/download/v1.0.0-beta.1/DAUI.sublime-package"
+                    "url": "https://github.com/ihodev/sublime-da-ui/releases/download/v1.0.0-beta.1.1/DAUI.sublime-package"
                 }
             ]
         }
