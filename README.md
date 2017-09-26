@@ -12,8 +12,6 @@
 
 ## Get It
 
-Currently the package is not on **Package Control**, but it will be available [**soon**][link-pcpr].
-
 1. Choose `Command Palette › Package Control: Install Package`.
 2. Find `DA UI` and hit `Enter`.
 3. Enjoy!
@@ -100,7 +98,6 @@ Currently everything you need is available from Sublime Text Command Palette: ju
 [link-new-issue]: https://github.com/ihodev/sublime-da-ui/issues/new
 [link-search-issue]: https://github.com/ihodev/sublime-da-ui/search?q=&type=Issues
 [link-twitter]: https://twitter.com/intent/tweet?hashtags=sublimetext%2C%20ui%2C%20theme%2C%20colorscheme&ref_src=twsrc%5Etfw&text=DA%20UI%20%E2%9D%A4%20Beautiful%20%26%20Powerful%20Theme%20for%20Sublime%20Text%203&tw_p=tweetbutton&url=https%3A%2F%2Fpackagecontrol.io%2Fpackages%2FDA%2520UI&via=trydaui
-[link-pcpr]: https://github.com/wbond/package_control_channel/pull/6611
 
 
 
