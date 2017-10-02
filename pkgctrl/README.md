@@ -110,5 +110,5 @@ Currently everything you need is available from Sublime Text Command Palette: ju
 [img-gitter]: https://cdn.rawgit.com/ihodev/sublime-da-ui/3c679bd4/assets/shields/chat-on-gitter.svg
 [img-logo]: https://raw.githubusercontent.com/ihodev/sublime-da-ui/master/assets/pkgctrl/logo.png
 [img-showcase]:https://raw.githubusercontent.com/ihodev/sublime-da-ui/master/assets/pkgctrl/showcase.gif
-[img-stars]: https://img.shields.io/github/stars/ihodev/sublime-da-ui.svg?style=flat-square&label=%E2%98%85%20stars
+[img-stars]: https://img.shields.io/github/stars/ihodev/sublime-da-ui.svg?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMiAxMiI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTUsNSw2LDIsNyw1aDNMNy42MSw3bC45MywzTDYsOC4yMiwzLjQ2LDEwbC45My0zTDIsNVoiLz48L3N2Zz4%3D&logoWidth=13
 [img-twitter]: https://cdn.rawgit.com/ihodev/sublime-da-ui/3c679bd4/assets/shields/share-on-twitter.svg
