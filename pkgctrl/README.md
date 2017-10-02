@@ -15,7 +15,9 @@
 2. Find `DA UI` and hit `Enter`.
 3. Choose `Command Palette › UI: Select Theme`.
 4. Find `DA.sublime-theme` and hit `Enter`.
-5. Enjoy!
+5. Choose `Command Palette › UI: Select Color Scheme`.
+6. Find your favorite one.
+7. Enjoy!
 
 > Install [**A File Icon**][link-afi] package for support of the file-specific icons.<br>
 > An alternative icon pack will be available in the next release.
