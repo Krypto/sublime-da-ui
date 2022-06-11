@@ -108,8 +108,8 @@ Currently everything you need is available from Sublime Text Command Palette: ju
 <!-- Images -->
 
 [img-downloads]: https://img.shields.io/packagecontrol/dt/DA%20UI.svg?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMiAxMiI%2BPGRlZnM%2BPHN0eWxlPi5jbHMtMXtmaWxsOiNmZmY7fTwvc3R5bGU%2BPC9kZWZzPjxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTEwLDVIOFYxSDRWNUgyTDYsOVpNMiwxMHYxaDhWMTBaIi8%2BPC9zdmc%2B&logoWidth=12&maxAge=3600
-[img-forum]: https://cdn.rawgit.com/ihodev/sublime-da-ui/3c679bd4/assets/shields/reply-on-forum.svg
-[img-gitter]: https://cdn.rawgit.com/ihodev/sublime-da-ui/3c679bd4/assets/shields/chat-on-gitter.svg
-[img-logo]: https://raw.githubusercontent.com/ihodev/sublime-da-ui/master/assets/github/logo.png
-[img-showcase]: https://raw.githubusercontent.com/ihodev/sublime-da-ui/master/assets/github/showcase.gif
-[img-twitter]: https://cdn.rawgit.com/ihodev/sublime-da-ui/3c679bd4/assets/shields/share-on-twitter.svg
+[img-forum]: https://cdn.rawgit.com/Krypto/sublime-da-ui/master/assets/shields/reply-on-forum.svg
+[img-gitter]: https://cdn.rawgit.com/Krypto/sublime-da-ui/master/assets/shields/chat-on-gitter.svg
+[img-logo]: https://raw.githubusercontent.com/Krypto/sublime-da-ui/master/assets/github/logo.png
+[img-showcase]: https://raw.githubusercontent.com/Krypto/sublime-da-ui/master/assets/github/showcase.gif
+[img-twitter]: https://cdn.rawgit.com/Krypto/sublime-da-ui/master/assets/shields/share-on-twitter.svg
